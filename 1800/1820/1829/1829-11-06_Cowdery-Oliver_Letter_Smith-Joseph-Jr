@@ -1,0 +1,25 @@
+author: { last: Cowdery, first: Oliver }
+title: Letter
+date: { year: 1829, month: 11, day: 06 }
+recipient: { last: Smith, first: Joseph, suffix: Jr. }
+handwriting: { last: Smith, first: Joseph, suffix: Jr. }
+
+venues: {
+	LB: {
+		title: Joseph Smith Letterbook 1,
+		pages: 6-8,
+		venues: {
+			CHL: {
+				name: Church History Library,
+				path: /venues/Church-History-Library,
+				collection: Joseph Smith Papers,
+				box: 1,
+				folio: 9
+			}
+		}
+	},
+    JSP: {
+    	name: Joseph Smith Papers,
+    	url: http://josephsmithpapers.org/paperSummary/letter-from-oliver-cowdery-6-november-1829
+    }
+}

@@ -1,0 +1,30 @@
+authors: {
+	{ last: Whitmer, first: Christian },
+	{ last: Whitmer, first: Jacob },
+	{ last: Whitmer, first: Peter, suffix: Jr. },
+	{ last: Whitmer, first: John },
+	{ last: Page, first: Hiram },
+	{ last: Smith, first: Joseph, suffix: Sr. },
+	{ last: Smith, first: Hyrum },
+	{ last: Smith, first: Samuel, additional: Harrison }
+}
+title: The Testimony of Eight Witnesses
+date: { year: 1829, month: 08? }
+city: Palmyra
+state: New York
+handwriting: { last: Cowdery, first: Oliver }
+pages: 1
+
+venues: {
+	BMPM: {
+		title: Book of Mormon Printer's Manuscript,
+		date: { year: 1829 },
+		pages: 464
+		
+		/* The manuscript is housed at the Community of Christ Library Archives; citation-ready data for this entry needs to be added here. */
+	},
+	JSP: {
+		name: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/the-testimony-of-eight-witnesses-circa-june–august-1829
+	}
+}

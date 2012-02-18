@@ -1,0 +1,19 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Revelation [D&C 4]
+date: { year: 1829, month: 02 }
+city: Harmony
+state: Pennsylvania
+handwriting: { last: Partridge, first: Edward }
+pages: 1
+
+venues: {
+	CHL: {
+		institution: Church History Library,
+		path: /venues/Church-History-Library,
+		collection: Edward Partridge Papers
+	},
+	JSP: {
+		title: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/revelation-february-1829-dc-4-
+	}
+}

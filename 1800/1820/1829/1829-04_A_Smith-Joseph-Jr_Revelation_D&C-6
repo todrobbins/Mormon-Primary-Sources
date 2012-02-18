@@ -1,0 +1,17 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Revelation-A [D&C 6]
+date: { year: 1829, month: 04 }
+city: Harmony
+state: Pennsylvania
+
+venues: {
+	BC: {
+		title: Book of Commandments,
+		path: /1800/1830/1833/1833-07_Book-of-Commandments,
+		pages: 14-17
+	},
+	JSP: {
+		title: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/revelation-april-1829–a-dc-6-
+	}
+}

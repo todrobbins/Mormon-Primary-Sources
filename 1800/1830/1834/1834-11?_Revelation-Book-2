@@ -1,0 +1,16 @@
+title: Book of Revelations
+editorialTitle: Revelation Book 2
+date: { year: 1834, month: 11? }
+pages: 121
+
+venues: {
+	CHL: {
+		name: Church History Library,
+		collection: Revelations
+		path: /venues/Church-History-Library
+	},
+	JSP: {
+		title: Joseph Smith Papers\, Manuscript Revelation Books,
+		path: /2000/2000/2009/2009_Joseph-Smith-Papers_Revelations-Translations_Ms-Revelation-Books
+	}
+}

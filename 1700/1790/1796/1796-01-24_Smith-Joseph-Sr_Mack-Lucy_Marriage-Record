@@ -1,0 +1,16 @@
+title: Joseph Smith and Lucy Mack Marriage Record
+date: { year: 1796, month: 01, day: 24 }
+
+venues: {
+	EMD: {
+    	editor: { last: Vogel, first: Dan },
+    	author: { last: Vogel, first: Dan },
+    	title: Early Mormon Documents,
+    	volume: 1,
+    	volumes: 5,
+    	city: Salt Lake City,
+    	publisher: Signature Books,
+    	year: 1996,
+    	pages: 631-32
+    }
+}

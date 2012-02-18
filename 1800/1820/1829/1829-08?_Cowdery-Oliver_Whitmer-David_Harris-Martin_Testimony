@@ -1,0 +1,25 @@
+authors: {
+	{ last: Cowdery, first: Oliver },
+	{ last: Whitmer, first: David },
+	{ last: Harris, first: Martin }
+}
+title: The Testimony of Three Witnesses
+date: { year: 1829, month: 08? }
+city: Palmyra
+state: New York
+handwriting: { last: Cowdery, first: Oliver }
+pages: 2
+
+venues: {
+	BMPM: {
+		title: Book of Mormon Printer's Manuscript,
+		date: { year: 1829 },
+		pages: 463-64
+		
+		/* The manuscript is housed at the Community of Christ Library Archives; citation-ready data for this entry needs to be added here. */
+	},
+	JSP: {
+		name: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/the-testimony-of-three-witnesses-circa-june–august-1829
+	}
+}

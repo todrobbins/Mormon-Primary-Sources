@@ -1,0 +1,17 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Revelation-B [D&C 8]
+date: { year: 1829, month: 04 }
+city: Harmony
+state: Pennsylvania
+
+venues: {
+	RB1: {
+		title: Revelation Book 1,
+		path: /1800/1830/1835/1835-07_Revelation-Book-1,
+		pages: 12-13
+	},
+	JSP: {
+		title: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/revelation-april-1829–b-dc-8
+	}
+}

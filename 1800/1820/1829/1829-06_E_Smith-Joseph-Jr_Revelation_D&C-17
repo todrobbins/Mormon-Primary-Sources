@@ -1,0 +1,17 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Revelation-E [D&C 17]
+date: { year: 1829, month: 06 }
+city: Fayette
+state: New York
+
+venues: {
+	RB2: {
+		name: Revelation Book 2,
+		path: /1800/1830/1834/1834-11?_Revelation-Book-2,
+		pages: 119-120
+	}
+	JSP: {
+		title: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/revelation-june-1829–e-dc-17
+	}
+}

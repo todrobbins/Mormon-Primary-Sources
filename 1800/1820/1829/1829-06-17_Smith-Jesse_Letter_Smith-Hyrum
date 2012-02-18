@@ -1,0 +1,17 @@
+author: { last: Smith, first: Jesse }
+title: Letter
+recipient: { last: Smith, first: Hyrum }
+date: { year: 1829, month: 06, day: 17 }
+
+venues: {
+	EMD: {
+    	editor: { last: Vogel, first: Dan },
+    	author: { last: Vogel, first: Dan },
+    	title: Early Mormon Documents,
+    	volume: 1,
+    	volumes: 5,
+    	city: Salt Lake City,
+    	publisher: Signature Books,
+    	year: 1996
+    }
+}

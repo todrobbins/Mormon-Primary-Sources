@@ -1,0 +1,13 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Book of Mormon Manuscript Excerpt [1 Nephi 2:2b-1 Nephi 3:18a]
+date: { year: 1829, month: 06? }
+city: Fayette?
+state: New York?
+handwriting: { last: Cowdery, first: Oliver }
+
+venues: {
+	CHL: {
+		name: Church History Library,
+		path: /venues/Church-History-Library
+	}
+}

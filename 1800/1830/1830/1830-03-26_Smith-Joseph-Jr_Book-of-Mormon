@@ -1,0 +1,18 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: The Book of Mormon
+subtitle: An Account Written by the Hand of Mormon, upon Plates Taken from the Plates of Nephi
+city: Palmyra
+state: New York
+publisher: E. B. Grandin
+date: { year: 1830, month: 03, day: 26 }
+
+venues: {
+	CHL: {
+		name: Church History Library,
+		path: /venues/Church-History-Library
+	},
+	JSP: {
+		name: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/book-of-mormon-1830
+	}
+}

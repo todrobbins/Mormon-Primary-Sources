@@ -1,0 +1,17 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Revelation-C [D&C 7]
+date: { year: 1829, month: 04 }
+city: Harmony
+state: Pennsylvania
+
+venues: {
+	RB1: {
+		title: Revelation Book 1,
+		path: /1800/1830/1835/1835-07_Revelation-Book-1,
+		pages: 13-14
+	},
+	JSP: {
+		title: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/account-of-john-april-1829–c-dc-7
+	}
+}

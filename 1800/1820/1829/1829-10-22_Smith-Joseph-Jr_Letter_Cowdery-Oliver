@@ -1,0 +1,35 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Letter
+date: { year: 1829, month: 10, day: 22 }
+recipient: { last: Cowdery, first: Oliver }
+
+venues: {
+	LB: {
+		title: Joseph Smith Letterbook 1,
+		pages: 9,
+		venues: {
+			CHL: {
+				name: Church History Library,
+				path: /venues/Church-History-Library,
+				collection: Joseph Smith Papers,
+				box: 1,
+				folio: 9
+			}
+		}
+	},
+    JSP: {
+    	name: Joseph Smith Papers,
+    	url: http://josephsmithpapers.org/paperSummary/letter-to-oliver-cowdery-22-october-1829
+    },
+    EMD: {
+    	editor: { last: Vogel, first: Dan },
+    	author: { last: Vogel, first: Dan },
+    	title: Early Mormon Documents,
+    	volume: 1,
+    	volumes: 5,
+    	city: Salt Lake City,
+    	publisher: Signature Books,
+    	year: 1996,
+    	pages: 7-8
+    }
+}

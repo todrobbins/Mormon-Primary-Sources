@@ -1,0 +1,16 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Revelation [D&C 3]
+date: { year: 1828, month: 07 }
+city: Harmony
+state: Pennsylvania
+
+venues: {
+	RB1: {
+		title: Revelation Book 1,
+		handwriting: { last: Whitmer, first: John },
+		path: /1800/1830/1835/1835-07_Revelation-Book-1,
+	JSP: {
+		title: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/revelation-july-1828-dc-3
+	}
+}

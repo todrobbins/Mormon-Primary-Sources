@@ -1,0 +1,14 @@
+editors: {
+	{ last: Jensen, first: Robin, additional: Scott },
+	{ last: Woodford, first: Robert, additional: J. },
+	{ last: Harper, first: Steven, additional: C. }
+}
+
+title: The Joseph Smith Papers
+series: Revelations and Translations
+volume: Manuscript Revelation Books
+edition: Facsimile Edition
+city: Salt Lake City
+state: Utah
+date: { year: 2009 }
+publisher: Church Historian's Press

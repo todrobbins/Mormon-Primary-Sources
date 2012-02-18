@@ -1,0 +1,18 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Book of Mormon Preface
+date: { year: 1829, month: 08? }
+handwriting: { last: Cowdery, first: Oliver }
+pages: 1
+
+venues: {
+	BMPM: {
+		title: Book of Mormon Printer's Manuscript,
+		date: { year: 1829 }
+		
+		/* The manuscript is housed at the Community of Christ Library Archives; citation-ready data for this entry needs to be added here. */
+	},
+	JSP: {
+		name: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/book-of-mormon-preface-circa-june–august-1829
+	}
+}

@@ -1,0 +1,18 @@
+title: A Book of Commandments, for the Government of the Church of Christ, Organized According to Law, on the 6th of April, 1830
+city: Independence
+state: Missouri
+publisher: W. W. Phelps & Co.
+date: { year: 1833, month: 07 }
+
+venues: {
+	CHL: {
+		name: Church History Library,
+		path: /venues/Church-History-Library
+	},
+	JSP: {
+		name: Joseph Smith Papers,
+		series: Revelations and Translations
+		volume: 2
+		path: /2000/2010/2011_Joseph-Smith-Papers_Revelations-Translations_Published-Revelations
+	}
+}

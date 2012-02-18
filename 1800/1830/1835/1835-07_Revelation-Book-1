@@ -1,0 +1,16 @@
+title: A Book of Commandments & Revelations of the Lord given to Joseph the Seer & others by the Inspiration of God & gift & power of the Holy Ghost which Beareth Re[c]ord of the Father & Son & Holy Ghost which is one God Infinite & eternal World without end Amen
+editorialTitle: Revelation Book 1
+date: { year: 1835, month: 07 }
+pages: 208
+missingPages: 18
+
+venues: {
+	CHL: {
+		institution: Church History Library,
+		path: /venues/Church-History-Library
+	},
+	JSP: {
+		title: Joseph Smith Papers\, Manuscript Revelation Books,
+		path: /2000/2000/2009/2009_Joseph-Smith-Papers_Revelations-Translations_Ms-Revelation-Books
+	}
+}

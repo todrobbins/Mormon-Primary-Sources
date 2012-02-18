@@ -1,0 +1,13 @@
+editors: {
+	{ last: Jensen, first: Robin, additional: Scott },
+	{ last: Turley, first: Richard, additional: E., suffix: Jr. },
+	{ last: Lorimer, first: Riley, additional: M. }
+}
+
+title: The Joseph Smith Papers
+series: Revelations and Translations
+volume: Published Revelations
+city: Salt Lake City
+state: Utah
+date: { year: 2011 }
+publisher: Church Historian's Press

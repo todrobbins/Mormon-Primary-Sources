@@ -1,0 +1,19 @@
+author: { last: Harris, first: Martin }
+title: Interview
+newspaper: Rochester Gem
+city: Rochester
+state: New York
+date: { year: 1829, month: 06? }
+
+venues: {
+	EMD: {
+    	editor: { last: Vogel, first: Dan },
+    	author: { last: Vogel, first: Dan },
+    	title: Early Mormon Documents,
+    	volume: 2,
+    	volumes: 5,
+    	city: Salt Lake City,
+    	publisher: Signature Books,
+    	year: 1998
+    }
+}

@@ -1,0 +1,19 @@
+author: { last: Smith, first: Joseph, suffix: Jr. }
+title: Revelation [D&C 5]
+date: { year: 1829, month: 03 }
+city: Harmony
+state: Pennsylvania
+handwriting: { last: Cowdery, first: Oliver }
+pages: 1
+
+venues: {
+	CHL: {
+		institution: Church History Library,
+		path: /venues/Church-History-Library,
+		collection: Newel K. Whitney Papers
+	},
+	JSP: {
+		title: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/revelation-march-1829-dc-5
+	}
+}

@@ -1,0 +1,23 @@
+authors: {
+	{ last: Hale, first: Isaac },
+	{ last: Smith, first: Joseph, suffix: Jr. }
+}
+title: Real Estate Agreement
+city: Harmony
+state: Pennsylvania
+date: { year: 1829, month: 04, day: 06 }
+handwriting: { last: Cowdery, first: Oliver }
+witness: { last: Smith, first: Samuel, additional: Harrison }
+pages: 1
+
+venues: {
+	CHL: {
+		name: Church History Library,
+		path: /venues/Church-History-Library,
+		collection: Joseph Smith Collection
+	},
+	JSP: {
+		name: Joseph Smith Papers,
+		url: http://josephsmithpapers.org/paperSummary/real-estate-agreement-with-isaac-hale-6-april-1829
+	}
+}
